@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Noah Krohn"
-resume_title:                   "Senior DevOps Lead"
+resume_title:                   "DevOps Manager"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "me@noahkrohn.dev"
@@ -20,7 +20,7 @@ resume_contact_email:           "me@noahkrohn.dev"
 resume_header_contact_info:     "me@noahkrohn.dev"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>DevOps professional with 20+ years experience in Engineering, Operations, IT, technical leadership, team-building, and mentoring</p>"
+resume_header_intro: "<p>DevOps professional with 20+ years experience in Engineering, Operations, IT, technical leadership, team-building, and mentoring.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -37,7 +37,7 @@ resume_section_skills:          true
 resume_section_recognition:     true
 # resume_section_links:           false
 # resume_section_associations:    false
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
