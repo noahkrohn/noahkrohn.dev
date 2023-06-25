@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Noah Krohn"
-resume_title:                   "DevOps Manager"
+resume_title:                   "Director of DevOps and SRE"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "me@noahkrohn.dev"
